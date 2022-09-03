@@ -4,7 +4,7 @@
 import DefaultLayout from '~/layouts/Default.vue'
 import '~/assets/scss/globals.scss'
 import Vuex from 'vuex'
-require('typeface-source-sans-pro')
+require('@fontsource/vt323')
 
 export default function (Vue, { router, head, isClient, appOptions }) {
   Vue.use(Vuex)
@@ -22,7 +22,7 @@ export default function (Vue, { router, head, isClient, appOptions }) {
 
   head.meta.push({
     name: 'theme-color',
-    content: '#10c186'
+    content: '#f99500'
   })
 
   head.meta.push({
