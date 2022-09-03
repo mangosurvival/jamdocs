@@ -1,6 +1,6 @@
 ---
 title: Theme configuration
-date: 2018-09-15T07:42:34.000+00:00
+date: 2018-09-15
 slug: theme-configuration
 
 ---
@@ -90,4 +90,4 @@ To edit the sidebar, open the file `data/settings.json`. In this file you will f
 
 The section contains a name, in this case "Introduction", and following the name is an array called topics. Each topic resembles a markdown file in `docs` and contains the title you want that file to have in the sidebar, as well as the slug for routing.
 
-For each topic the markdown is scanned for h2 headings, which is added as anchor links right below the topic in the sidebar.
+For each topic the markdown is scanned for h2 headings, which is added as anchor links right below the topic in the sidebar. FDSFDSFDSFFS
