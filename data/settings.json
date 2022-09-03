@@ -1,15 +1,6 @@
 {
   "sidebar": [
     {
-      "section": "Probando",
-      "topics": [
-        {
-          "title": "Changin Themes",
-          "slug": "getting-started"
-        }
-      ]
-    },
-    {
       "section": "Introduction",
       "topics": [
         {
