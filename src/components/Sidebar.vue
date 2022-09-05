@@ -109,7 +109,7 @@ export default {
   width: 300px;
   position: fixed;
   top: 0;
-  bottom: 30%;
+  bottom: 0;
   left: 0;
   z-index: 9;
   will-change: transform;
@@ -167,7 +167,7 @@ ul {
 .section-title {
   text-transform: uppercase;
   font-size: 12px;
-  margin-bottom: 20px;
+  margin-bottom: 60px;
   opacity: .3;
   letter-spacing: .15em;
   font-weight: 700;
