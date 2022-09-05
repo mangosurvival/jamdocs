@@ -33,7 +33,7 @@ export default {
   },
   data() {
     return {
-      description: 'Vanilla+ & Semi Hardcore'
+      description: 'Vanilla+ & Semi Hardcore           129.213.60.33/193.122.150.135'
     }
   },
   metaInfo() {
