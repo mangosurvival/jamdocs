@@ -1,6 +1,6 @@
 <template>
-  <a href="https://github.com/samuelhorn/jamdocs" :class="size" title="Git-repository" aria-label="Jamdocs on Github">
-    <github-icon class="icon" />
+  <a href="https://discord.gg/uAjMWHqsHx" :class="size" title="Discord" aria-label="MangoSV">
+    <compass-icon class="icon" />
     {{text}}
   </a>
 </template>
