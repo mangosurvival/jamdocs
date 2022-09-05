@@ -4,7 +4,7 @@
       <h1>{{ $static.metadata.siteName }} - {{ this.description }}</h1>
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
-        <Shortcut link="/getting-started" text="Guia" icon="bookopen-icon" />
+        <Shortcut link="/getting-started" text="Guia" icon="book-icon" />
         <Shortcut link="/theme-configuration" text="Objetivo" icon="cloudlightning-icon" />
         <Shortcut link="/theme-configuration#changing-colors" text="Datapacks/FSSD" icon="archive-icon" />
       </nav>
