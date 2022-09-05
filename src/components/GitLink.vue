@@ -42,12 +42,12 @@ a {
 
   .dark & {
     color: $textBright;
-    background: $sidebarBright;
+    background: $sidebarDark;
   }
 
   .bright & {
     color: $textDark;
-    background: $sidebarDark;
+    background: $sidebarBright;
   }
 
   svg {
