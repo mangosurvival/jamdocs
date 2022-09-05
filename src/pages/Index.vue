@@ -10,7 +10,6 @@
         <Shortcut link="/theme-configuration#changing-colors" text="Cinema" icon="video-icon" />
       </nav>
       <GitLink class="git" size="large" />
-      <GitLink class="git" size="large" />
     </div>
   </Layout>
 </template>
