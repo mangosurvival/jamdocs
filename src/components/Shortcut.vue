@@ -10,7 +10,7 @@
 </template>
 
 <script>
-import { PlayIcon, SlidersIcon, EyeIcon, SlackIcon,SunIcon,CloudLightningIcon,BookOpenIcon,ArchiveIcon,CompassIcon } from 'vue-feather-icons'
+import { PlayIcon, SlidersIcon, EyeIcon, SlackIcon,SunIcon,Cloud-LightningIcon,Book-OpenIcon,ArchiveIcon } from 'vue-feather-icons'
 
 export default {
   components: {
@@ -19,11 +19,9 @@ export default {
     EyeIcon,
     SlackIcon,
     SunIcon,
-    CloudLightningIcon,
-    BookOpenIcon,
-    ArchiveIcon,
-    CompassIcon
-
+    Cloud-LightningIcon,
+    Book-OpenIcon,
+    ArchiveIcon
   },
   props: {
     link: {
