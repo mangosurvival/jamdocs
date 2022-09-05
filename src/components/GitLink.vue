@@ -41,12 +41,12 @@ a {
   }
 
   .dark & {
-    color: $textBright;
+    color: $textDark;
     background: $sidebarDark;
   }
 
   .bright & {
-    color: $textDark;
+    color: $textBright;
     background: $sidebarBright;
   }
 
