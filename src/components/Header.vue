@@ -61,7 +61,6 @@ export default {
   align-items: center;
   position: fixed;
   top: 0;
-  bottom: 20%;
   right: -12px;
   left: 0;
   z-index: 10;
