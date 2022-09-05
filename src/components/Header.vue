@@ -60,7 +60,7 @@ export default {
   justify-content: space-between;
   align-items: center;
   position: fixed;
-  top: 0;
+  top: 30%;
   right: -12px;
   left: 0;
   z-index: 10;

@@ -6,9 +6,10 @@
         <!-- To use other icons here, you need to import them in the Shortcut component -->
         <Shortcut link="/getting-started" text="Guia" icon="book-icon" />
         <Shortcut link="/theme-configuration" text="Objetivo" icon="key-icon" />
-        <Shortcut link="/theme-configuration#changing-colors" text="Datapacks/FSSD" icon="archive-icon" />
-        <Shortcut link="/theme-configuration#changing-colors" text="Datapacks/FSSD" icon="archive-icon" />
+        <Shortcut link="/theme-configuration#changing-colors" text="Datapacks/FSSM" icon="archive-icon" />
+        <Shortcut link="/theme-configuration#changing-colors" text="Cinema" icon="video-icon" />
       </nav>
+      <GitLink class="git" size="large" />
       <GitLink class="git" size="large" />
     </div>
   </Layout>
