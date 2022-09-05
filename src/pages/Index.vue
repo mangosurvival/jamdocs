@@ -7,6 +7,7 @@
         <Shortcut link="/getting-started" text="Guia" icon="book-icon" />
         <Shortcut link="/theme-configuration" text="Objetivo" icon="key-icon" />
         <Shortcut link="/theme-configuration#changing-colors" text="Datapacks/FSSD" icon="archive-icon" />
+        <Shortcut link="/theme-configuration#changing-colors" text="Datapacks/FSSD" icon="archive-icon" />
       </nav>
       <GitLink class="git" size="large" />
     </div>
