@@ -6,6 +6,7 @@
     <transition name="theme">
       <sun-icon v-if="theme == 'dark'" class="sun" />
     </transition>
+
   </button>
 </template>
 
@@ -15,7 +16,7 @@ import { MoonIcon, SunIcon } from 'vue-feather-icons'
 export default {
   components: {
     MoonIcon,
-    SunIcon
+    SunIcon,
   },
   data() {
     return {

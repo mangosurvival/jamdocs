@@ -4,9 +4,9 @@
       <h1>{{ $static.metadata.siteName }} - {{ this.description }}</h1>
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
-        <Shortcut link="/getting-started" text="Guia" icon="slack-icon" />
-        <Shortcut link="/theme-configuration" text="Objetivo" icon="sliders-icon" />
-        <Shortcut link="/theme-configuration#changing-colors" text="Datapacks/FSSD" icon="eye-icon" />
+        <Shortcut link="/getting-started" text="Guia" icon="bookopen-icon" />
+        <Shortcut link="/theme-configuration" text="Objetivo" icon="cloudlightning-icon" />
+        <Shortcut link="/theme-configuration#changing-colors" text="Datapacks/FSSD" icon="archive-icon" />
       </nav>
       <GitLink class="git" size="large" />
     </div>
@@ -32,7 +32,7 @@ export default {
   },
   data() {
     return {
-      description: 'Servidor Moddeado Wannabe Vanilla'
+      description: 'Vanilla+ & Semi Hardcore'
     }
   },
   metaInfo() {

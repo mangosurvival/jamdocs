@@ -6,11 +6,11 @@
 </template>
 
 <script>
-import { GithubIcon } from 'vue-feather-icons'
+import { CompassIcon } from 'vue-feather-icons'
 
 export default {
   components: {
-    GithubIcon
+    CompassIcon
   },
   props: {
     size: {
@@ -19,7 +19,7 @@ export default {
     },
     text: {
       type: String,
-      default: 'Fork me on Github'
+      default: 'Discord'
     }
   }
 }
