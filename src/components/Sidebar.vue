@@ -109,7 +109,7 @@ export default {
   width: 300px;
   position: fixed;
   top: 0;
-  bottom: 0;
+  bottom: 4;
   left: 0;
   z-index: 9;
   will-change: transform;
