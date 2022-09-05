@@ -161,7 +161,7 @@ ul {
 }
 
 .section {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
 .section-title {
