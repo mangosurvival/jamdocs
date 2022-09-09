@@ -19,6 +19,11 @@ Go to **Settings / Preview** and click on the **Start** button.
 
 It will clone your site on Forestry preview environment, install the project dependencies, and launch your npm script to launch `gridsome develop`
 
+<video controls>
+  <source src="totem.mkv" type="video/mkv">
+</video>
+
+
 ![](/forestry-instant-previews.png)
 
 Once the server is started, you will be able to **click on the preview icon** when you're editing a document (even without saving your changes).
