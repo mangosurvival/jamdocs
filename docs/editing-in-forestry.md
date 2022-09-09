@@ -19,8 +19,8 @@ Go to **Settings / Preview** and click on the **Start** button.
 
 It will clone your site on Forestry preview environment, install the project dependencies, and launch your npm script to launch `gridsome develop`
 
-<video controls>
-  <source src="totem2.mp4" type="video/mp4">
+<video width="600" height="324" controls>
+  <source src="totem.mp4" type="video/mp4">
 </video>
 
 
